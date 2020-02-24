@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "506673404908",
+    "firebase_url": "https://onlinebags-fc1d6.firebaseio.com",
+    "project_id": "onlinebags-fc1d6",
+    "storage_bucket": "onlinebags-fc1d6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:506673404908:android:f4bfb2dcbd00c0ec8cbec9",
+        "android_client_info": {
+          "package_name": "com.example.onlinebags"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "506673404908-lg7bdb1gn2lcve5nr0msok49vqj29mbg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.onlinebags",
+            "certificate_hash": "302c285cde2ef066793d7026187318f4e3a5b243"
+          }
+        },
+        {
+          "client_id": "506673404908-e9vjcj2po6c585ipggv4aqt0o8vface1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnXyci8V4u0K4XpSm2WUvlv4qYld0m4uk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "506673404908-e9vjcj2po6c585ipggv4aqt0o8vface1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
